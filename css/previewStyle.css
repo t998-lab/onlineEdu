@@ -1,0 +1,85 @@
+body{
+    font-family: "Josefin Sans","Sen",sans-serif;
+}
+.bgColor{
+    background-color: #2d3092;
+}
+.bgLogo{
+    background: #f4f4f4;
+}
+.mainColor{
+    color:#2d3092;
+}
+.topinfo{
+    font-family: "Josefin Sans";
+    color:#86878a;
+    border: none;
+    letter-spacing:1px;
+    text-decoration: none;
+}
+a:hover {
+    color: #2d3092;
+    text-decoration: none;
+}
+.navbar{
+    padding:0
+}
+.navbar-nav .nav-link {
+    font-family:  "Josefin Sans";
+     letter-spacing:1px;
+     font-weight:bolder;
+     text-transform: capitalize;
+     
+}
+.form-control{
+   border-radius: 50px;
+  
+    
+}
+.navbar-toggler {
+    color: red;
+    border:none;
+}
+.photobg{
+    background-color: #bcdefe;
+    color:#030431;
+    letter-spacing: 2px;
+}
+.imageText{
+    font-size:x-large;
+    padding: 15% 0 10% 10%;
+}
+
+.pad{
+     font-size:x-large;
+    padding: 3% 10% ;
+}
+.compColor{
+    color:#0f9b74;
+}
+.bookColor{color:#292c93;}
+.listColor{color:#2b9c12}
+.userColor{color:#f05510}
+.jumbotron {
+    background-color: #f6fbff;
+}
+.TextPadding{
+     font-size:x-large;
+    padding: 10% 0 5% 5%;
+}
+.list-group-item{
+    background: none;
+    border:none;
+    padding: 5% 0
+}
+.card1{
+        background-color: white;
+      color:#250051;
+}
+.card1 a{
+    color:#250051;
+}
+.card1:hover, .card1:hover a{
+            background-color: #250051;
+            color:white;
+}
